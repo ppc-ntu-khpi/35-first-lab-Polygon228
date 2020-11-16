@@ -19,7 +19,7 @@ public class Shirt {
 } // кінець опису класу
 ```
 
-![task1]()
+![task1](https://github.com/ppc-ntu-khpi/35-first-lab-Polygon228/blob/master/Solution/task1.1.png)
 **Task 1.2**
 ```java
 public class Shirt {
@@ -41,4 +41,4 @@ public class Shirt {
 } // кінець опису класу
 ```
 
-![task1]()
+![task1](https://github.com/ppc-ntu-khpi/35-first-lab-Polygon228/blob/master/Solution/task1.2.png)
