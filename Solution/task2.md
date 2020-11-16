@@ -7,7 +7,7 @@ public class Quotation {
   }
 }
 ```
-![task1]()
+![task1](https://github.com/ppc-ntu-khpi/35-first-lab-Polygon228/blob/master/Solution/task2.1.png)
 **Task 2.2**
 ```java
 public class Quotation {
@@ -17,4 +17,4 @@ public class Quotation {
   }
 }
 ```
-![task1]()
+![task1](https://github.com/ppc-ntu-khpi/35-first-lab-Polygon228/blob/master/Solution/task2.2.png)
